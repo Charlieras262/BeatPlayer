@@ -2,7 +2,6 @@ language: android
 
 android:
   components:
-    - tools
     - platform-tools
     - tools
 
